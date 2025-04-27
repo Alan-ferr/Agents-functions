@@ -4,12 +4,6 @@
 ```markdown
 # 🧠 Agent Functions — Construindo Agentes Inteligentes para Soluções Empresariais
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![LLMs](https://img.shields.io/badge/LLM-Llama_3_70B-orange)](https://groq.com/)
-[![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-red)](https://llamaindex.ai/)
-[![Enterprise AI](https://img.shields.io/badge/Enterprise_AI-Solutions-green)](#)
-[![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)](#)
-
 ---
 
 ## 📚 Sumário
