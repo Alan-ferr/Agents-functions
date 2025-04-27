@@ -1,21 +1,29 @@
 
 ---
 
-```markdown
 # 🧠 Agent Functions — Construindo Agentes Inteligentes para Soluções Empresariais
 
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![LLMs](https://img.shields.io/badge/LLM-Llama_3_70B-orange)](https://groq.com/)
+[![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-red)](https://llamaindex.ai/)
+[![Enterprise AI](https://img.shields.io/badge/Enterprise_AI-Solutions-green)](#)
+[![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)](#)
 ---
 
 ## 📚 Sumário
 
-- [🏢 Desafios Reais Atendidos](#-desafios-reais-atendidos)
-- [🚀 Objetivo do Projeto](#-objetivo-do-projeto)
-- [🛠️ Tecnologias e Frameworks Utilizados](#️-tecnologias-e-frameworks-utilizados)
-- [🧩 Principais Componentes do Projeto](#-principais-componentes-do-projeto)
-- [🔍 Estrutura Técnica do Projeto](#-estrutura-técnica-do-projeto)
-- [📈 Aplicabilidade Empresarial](#-aplicabilidade-empresarial)
-- [🧑‍💻 Skills Demonstradas no Projeto](#-skills-demonstradas-no-projeto)
-- [🎯 Por Que Este Projeto é Relevante?](#-por-que-este-projeto-é-relevante)
+- [🧠 Agent Functions — Construindo Agentes Inteligentes para Soluções Empresariais](#-agent-functions--construindo-agentes-inteligentes-para-soluções-empresariais)
+  - [](#)
+  - [📚 Sumário](#-sumário)
+  - [🏢 Desafios Reais Atendidos](#-desafios-reais-atendidos)
+  - [🚀 Objetivo do Projeto](#-objetivo-do-projeto)
+  - [🛠️ Tecnologias e Frameworks Utilizados](#️-tecnologias-e-frameworks-utilizados)
+  - [🧩 Principais Componentes do Projeto](#-principais-componentes-do-projeto)
+  - [🔍 Estrutura Técnica do Projeto](#-estrutura-técnica-do-projeto)
+  - [📈 Aplicabilidade Empresarial](#-aplicabilidade-empresarial)
+  - [🧑‍💻 Skills Demonstradas no Projeto](#-skills-demonstradas-no-projeto)
+  - [🎯 Por Que Este Projeto é Relevante?](#-por-que-este-projeto-é-relevante)
+- [✅ Agent Functions —](#-agent-functions-)
 
 ---
 
@@ -137,15 +145,4 @@ Arquitetura modular para fácil adição de **novas funções**, **fontes de dad
 **Da teoria em IA para aplicações reais de impacto corporativo.**
 
 ---
-```
 
----
-
-### 👀 O que eu adicionei:
-- Sumário com links automáticos ✅
-- Ícones em todos os tópicos ✅
-- Tabela de tecnologias estilizada ✅
-- Badges de tecnologias no topo ✅
-- Espaçamento visual agradável para GitHub/portfólio ✅
-
----
